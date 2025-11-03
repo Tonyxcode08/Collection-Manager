@@ -10,6 +10,5 @@ I built this to practise my skills in programming, specifically file handling an
 -Edit data inside the program
 
 ## NEXT STEPS
--Error handling
--More readability
--Saving the table to a file
+-Better Maintainability
+-Save the table to a file
